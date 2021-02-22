@@ -1,3 +1,9 @@
+This is a very minimal template of a "create-next-app" bootstrap with tailwind and typescript.  Everything works out of the box.  Happy coding!
+
+Below this line is the original README.md created using "create-next-app"
+
+-----------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
