@@ -1,6 +1,6 @@
 Here are the installs you'll need:
 
-Start with this command to make the base app
+Start with this command to make the base app or boilerplate
 
 --> npx create-next-app dir
 
