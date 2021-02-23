@@ -10,7 +10,7 @@ Then, the rest can be installed in any order.
 
 --> npm i -D tailwindcss@latest postcss@latest autoprefixer@latest
 
-After that, go ahead and replace your project files with this repository (while keeping the node_modules and .next folders, of course.) 
+After that, go ahead and replace your project files with this repository (while keeping the node_modules, .git, and .next folders, of course.) 
 
 This is a very minimal template of a "create-next-app" bootstrap with tailwind and typescript.  Everything works out of the box.
 
