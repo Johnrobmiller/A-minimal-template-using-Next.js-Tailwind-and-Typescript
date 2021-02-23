@@ -1,7 +1,7 @@
 Here are the npm installs you'll need:
 
 1. --> npx create-next-app dir
-2. --> npm i --dev typescript @types/react @types/node
+2. --> yarn add --dev typescript @types/react @types/node
 3. --> npm i -D tailwindcss@latest postcss@latest autoprefixer@latest
 
 This is a very minimal template of a "create-next-app" bootstrap with tailwind and typescript.  Everything works out of the box.  Happy coding!
