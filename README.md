@@ -1,11 +1,15 @@
 Here are the installs you'll need:
 
 Start with this command to make the base app
+
 --> npx create-next-app dir
 
 Then, the rest can be installed in any order.
+
 --> npm i --save-dev @types/react
+
 --> yarn add --dev typescript @types/react @types/node
+
 --> npm i -D tailwindcss@latest postcss@latest autoprefixer@latest
 
 After that, go ahead and replace your project files with this repository (except for the node_modules and .next folders, of course.) 
