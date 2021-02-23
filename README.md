@@ -6,8 +6,6 @@ Start with this command to make the base app
 
 Then, the rest can be installed in any order.
 
---> npm i --save-dev @types/react
-
 --> yarn add --dev typescript @types/react @types/node
 
 --> npm i -D tailwindcss@latest postcss@latest autoprefixer@latest
