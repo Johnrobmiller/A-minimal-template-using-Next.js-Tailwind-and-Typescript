@@ -8,9 +8,13 @@ Then, the rest can be installed in any order.
 --> yarn add --dev typescript @types/react @types/node
 --> npm i -D tailwindcss@latest postcss@latest autoprefixer@latest
 
-This is a very minimal template of a "create-next-app" bootstrap with tailwind and typescript.  Everything works out of the box.  Happy coding!
+After that, go ahead and replace your project files with this repository (except for the node_modules and .next folders, of course.) 
 
-Below this line is the original README.md created using "create-next-app"
+This is a very minimal template of a "create-next-app" bootstrap with tailwind and typescript.  Everything works out of the box.
+
+Happy coding!!!
+
+(Below this line is the original README.md created using "create-next-app")
 
 -----------------------------------------
 
